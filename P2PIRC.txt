@@ -1,1 +1,0 @@
-interconnect has permission to use the cmnd-ctrl.com domain for a vhost on p2p-network.
